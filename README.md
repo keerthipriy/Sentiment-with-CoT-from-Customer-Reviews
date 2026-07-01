@@ -73,7 +73,7 @@ python -m streamlit run app2.py
 Create a `.env` file:
 
 ```env
-groq_api_key=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
+groq_api_key=gsk_**************************************
 ```
 ## Requirements
 
